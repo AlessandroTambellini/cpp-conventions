@@ -1,4 +1,4 @@
-#C++ Conventions
+# C++ Conventions
 
 ## Naming conventions
 
@@ -54,12 +54,12 @@ void getExample(int value)
 }
 ```
 
-##Other conventions
+## Other conventions
 
-|      ✔️                          |        ❌ |
-| : -- -- :                        | : -- -- : |
-|`if (var1)`                       |`if ( var1 )` |
-|`if (var1 == var2)`               |`if (var1==var2)` |
-|`if (n == m + 1)`                 |`if (n == m+1)` |
-|`enum Color { red, green, blue }` |`enum Color {red, green, blue}` |
-|`i += 4`                          |`i +=4` |
+|     ✔️    |    ❌    |
+| :----: | :----: |
+| `if (var1)`  | `if ( var1 )` |
+| `if (var1 == var2)` | `if (var1==var2)` |
+| `if (n == m + 1)` | `if (n == m+1)` |
+| `enum Color { red, green, blue }` | `enum Color {red, green, blue}` |
+| `i += 4` | `i +=4` |
